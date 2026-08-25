@@ -6,5 +6,7 @@ As the length of the walk approaches infinity, Andy will eventually either find 
 Back Home Condition:\
 -back to the origin\
 Realize Abnormality Condition:\
--reach a 1 that is not the origin
+-reach a 1 that is not the origin\
+The labeling process uses the fact that \bbZ/\omega\bbZ (4 residue classes of Esenstein integer)\
+is isomorphic to the 4 faces. 
 
