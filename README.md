@@ -6,5 +6,5 @@ As the length of the walk approaches infinity, Andy will eventually either find 
 Back Home Condition:\
 -back to the origin\
 Realize Abnormality Condition:\
--reach a 1 that is not the origin\
+-reach a 1 that is not the origin
 
